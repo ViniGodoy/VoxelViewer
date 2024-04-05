@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>CuteSlider.qml</file>
+        <file>SettingsForm.qml</file>
+        <file>AboutForm.qml</file>
+        <file>logo_pucpr.jpg</file>
+    </qresource>
+</RCC>
